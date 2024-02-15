@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompararCadenas", "CompararCadenas\CompararCadenas.csproj", "{D814F841-EF47-4524-BD18-0308852EEDB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D814F841-EF47-4524-BD18-0308852EEDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D814F841-EF47-4524-BD18-0308852EEDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D814F841-EF47-4524-BD18-0308852EEDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D814F841-EF47-4524-BD18-0308852EEDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0744E16E-2AAB-4155-9DBA-103921A95F2C}
+	EndGlobalSection
+EndGlobal
